@@ -21,7 +21,7 @@ A simple, stylish calculator built using HTML, CSS, and JavaScript that performs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   https://github.com/Divyabhanu27/MicroIT-internship.git
    ```
 2. Open `index.html` in your browser.
 
